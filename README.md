@@ -1,4 +1,4 @@
-# ATIVIDADE - UC8 - LÓGICA DE PROGRAMAÇÃO - SISTEMA DE CADASTRO DE EVENTOS <img src="https://user-images.githubusercontent.com/53920878/133932972-988a224d-c3d6-485a-8c79-46afd90b97d6.png" width="120px" align="center"></img>
+# ATIVIDADE 2 - SISTEMA DE CADASTRO DE EVENTOS <img src="https://user-images.githubusercontent.com/53920878/133932972-988a224d-c3d6-485a-8c79-46afd90b97d6.png" width="120px" align="center"></img>
 ## Sistema Cadastro de Eventos
 
 Nessa atividade eu criei a parte do Front-End da lógica de programação que fizemos em Javascript, do sistema de cadastro.
