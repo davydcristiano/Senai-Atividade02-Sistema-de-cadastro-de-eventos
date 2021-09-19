@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" media="screen and (min-width: 900px)" href="widescreen.css">
+    <link rel="stylesheet" media="screen and (max-width: 600px)" href="smallscreen.css">
+    <title>Sistema de cadastro</title>
+</head>
+<body>
+    <div class="container">
+        <!-- Cabeçalho com título e subtítulo -->
+        <div>
+            <h1 id="titulo">Participe do Evento</h1>
+            <p id="subtitulo">Clique na caixa! Para participar do evento.</p>
+            <br>
+        </div>
+        <!-- Início do formulários name-->
+        <div id="formulario-name">
+            <form method="post">
+                <fieldset class="Grupo">
+                    <div class="Nome">
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+                        <label for="checkbox" id="Checkbox">
+                        <input type="checkbox" name="field[]" value="1" class="option__input">
+                        Encontro Remoto Senai Front-End
+                        </label>
+                    </div>
+                </fieldset>
+        </div>
+        <!-- Campo do formulário de buttons -->
+        <div id="button">
+            <a id="Voltar" href="index.html" type="button" value="Voltar" class="Voltar">Voltar</a>
+            <button id="Botao" onclick="participar()" type="button" class="participar">Participar</button>
+        </div>
+        </form>
+        <script src="script-ingressar.js"></script>
+</body>
+</html>

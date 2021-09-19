@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" media="screen and (min-width: 900px)" href="widescreen.css">
+    <link rel="stylesheet" media="screen and (max-width: 600px)" href="smallscreen.css">
+    <title>Sistema de cadastro</title>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Cabeçalho com título e subtítulo -->
+        <div>
+            <h1 id="titulo">Cadastro de Eventos</h1>
+            <p id="subtitulo">Agende um evento ou cadastre-se em um já existente.</p>
+            <br>
+        </div>
+        <!-- Início do formulários name-->
+        <div id="formulario-name">
+            <form method="post">
+                <fieldset class="Grupo">
+                    <div class="Nome">
+                        <label for="Nome">
+                            <strong>Nome</strong>
+                        </label><br>
+                        <input type="text" name="nome" id="nome" maxlength="20">
+                </fieldset>
+        </div>
+
+        <!-- Campo de formulário e-mail -->
+        <div id="formulario-email">
+            <form method="post">
+                <fieldset class="Grupo">
+                    <div class="email">
+                        <label for="email">
+                            <strong>Email</strong>
+                        </label><br>
+                        <input type="email" name="email" id="email">
+                </fieldset>
+        </div>
+        <!-- Campo do formulário data -->
+        <div id="formulario-data">
+            <form method="post">
+                <fieldset class="Grupo">
+                    <div class="Data">
+                        <label id="Data">
+                            <strong>Data</strong>
+                        </label><br>
+                        <input type="date" name="data" id="data">
+                </fieldset>
+        </div>
+        <!-- Campo do formulário de buttons -->
+        <div id="button">
+            <input onclick="pegarData()" type="button" value="Criar Evento" class="criarEvento">
+            <a id="Participar" href="Ingressar.html" type="button" value="Participar" class="criarEvento">Participar</a>
+        </div>
+        </form>
+        <script src="script.js"></script>
+</body>
+
+</html>
