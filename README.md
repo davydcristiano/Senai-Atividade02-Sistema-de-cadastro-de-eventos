@@ -16,9 +16,11 @@ Dentro da atividade, eu criei o layout e todas as funções em HTML, CSS & Javas
 ## 👨🏻‍💻AUTOR
 <a href="https://github.com/davydcristiano" style="align: center" width="90px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-<a href="https://github.com/davydcristiano" style="align: center" width="90px">  
-<img src="https://avatars.githubusercontent.com/u/53920878?s=400&u=66625844b1ac8cf54c403e0f30361182c3cb27e2&v=4" width="150px" alt="Image do Davyd Cristiano" style="align: center" width="90px"></br>
-<p align="margin: auto"> 
-Davyd Cristiano!
+  <a href="https://github.com/davydcristiano" style="align: center" width="90px">
+    <a href="https://github.com/davydcristiano" style="align: center" width="90px">  
+      <p align="center">
+ <img src="https://avatars.githubusercontent.com/u/53920878?s=400&u=66625844b1ac8cf54c403e0f30361182c3cb27e2&v=4" width="200" alt="Image do Davyd Cristiano">
+      </br>Davyd Cristiano
 </p>
+
+
